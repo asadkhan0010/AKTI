@@ -1,3 +1,3 @@
 # AKTI
 This my first working repository
-Author: Asad Khan
+Author: Asad Khan khalil
